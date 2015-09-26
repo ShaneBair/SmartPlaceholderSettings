@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/layout" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Smart Placeholder Settings" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system" ItemIcon="/temp/IconCache/People/16x16/workstation1.png" />
+  <Item ItemPath="/sitecore/system/Settings" ItemIcon="/temp/IconCache/Applications/16x16/preferences.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules" ItemIcon="/temp/IconCache/Core2/32x32/properties_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions" ItemIcon="/temp/IconCache/People/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements" ItemIcon="/temp/IconCache/Applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings" ItemIcon="/temp/IconCache/core2/32x32/flow_chart.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Tags" ItemIcon="/temp/IconCache/applications/32x32/bookmarks.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Tags/SmartPlaceholderSettings" ItemIcon="/temp/IconCache/applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/SmartPlaceholderSettings" ItemIcon="/temp/IconCache/software/32x32/elements_selection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Tags" ItemIcon="/temp/IconCache/applications/32x32/bookmarks.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/SmartPlaceholderSettings/Rules" ItemIcon="/temp/IconCache/software/32x32/element_run.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholder" ItemIcon="/temp/IconCache/Business/16x16/table_selection_block.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholder/Data" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Tags/Default" ItemIcon="/temp/IconCache/applications/32x32/bookmark_preferences.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Visibility" ItemIcon="/~/icon/applications/32x32/lightbulb.png.aspx" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Tags/SmartPlaceholderSettings/Visibility" ItemIcon="/~/icon/applications/32x32/lightbulb.png.aspx" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/SmartPlaceholderSettings/Tags" ItemIcon="/temp/IconCache/applications/32x32/bookmarks.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/SmartPlaceholderSettings/Tags/Default" ItemIcon="/temp/IconCache/applications/32x32/bookmark_preferences.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholderFolder" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholderFolder/__Standard Values" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholder/__Standard Values" ItemIcon="/temp/IconCache/Business/16x16/table_selection_block.png" />
+  <Item ItemPath="/sitecore/templates/SmartPlaceholderSettings/SmartPlaceholder/Data/AllowedControlsRules" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/AllowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Descendant or Self" ItemIcon="/temp/IconCache/Software/32x32/shape_rhomb.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/DisallowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions" ItemIcon="/temp/IconCache/People/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions" ItemIcon="/temp/IconCache/People/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements" ItemIcon="/temp/IconCache/Applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements" ItemIcon="/temp/IconCache/Applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/AllowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Descendant or Self" ItemIcon="/temp/IconCache/Software/32x32/shape_rhomb.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/DisallowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/AllowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/Descendant or Self" ItemIcon="/temp/IconCache/Software/32x32/shape_rhomb.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Definitions/Elements/SmartPlaceholderSettings/DisallowControls" ItemIcon="/temp/IconCache/Software/32x32/shape_rectangle.png" />
+</ItemIconCache>
